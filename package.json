@@ -1,8 +1,8 @@
 {
-  "name": "claude-web",
+  "name": "sparktechailabs",
   "version": "1.0.0",
   "private": true,
-  "description": "Claude website built according to Anthropic DESIGN.md and Vercel Web Interface Guidelines",
+  "description": "SparkTech AI Labs — Decentralized AI Compute, Digital Products, Mobile Themes & Mini-Games Arcade",
   "scripts": {
     "dev": "vite",
     "start": "vite",
